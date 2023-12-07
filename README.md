@@ -1,4 +1,4 @@
-# project2
+# Project 2
 React Project 2
 
 Tech Marketplace App
