@@ -37,3 +37,35 @@ Your team must utilize GitHub features for collaboration throughout the project.
 Remember, a simple app that works is much more valuable than a fancy-looking app with bugs! Start simple and weave in one small addition at a time, ensuring that it works before moving on to another. 
 Most importantly: have fun!
 
+
+Scoring Rubric:
+
+Functionality and User Experience (55 points):
+
+Each feature functions correctly on its own (40 pts).
+The overall application functions correctly, with the different features seamlessly updating one another (10 pts).
+Unified design throughout the site and intuitive navigation (5 pts).
+Code Quality and Documentation (20 points):
+
+Good choice of React component hierarchy for each feature and effective use of state management (10 pts) 
+Proper indentation, naming conventions, and organization, with limited redundancy (5 pts).
+Well-commented code, README documentation (5 pts).
+GitHub and Collaboration (15 points):
+
+Clear, frequent, and informative commit messages (5 pts).
+Use of branches and pull requests to manage code (3 pts).
+Use of GitHub Issues to track tasks among team members (2 pts). 
+History showing equal contribution and collaboration among team members (5 pts).
+Final Presentation (10 points):
+
+Clarity of presentation and understanding of the project (5 pts).
+Ability to handle questions and feedback (5 pts).
+Submission Requirements:
+
+Submit a link to your GitHub repository. Ensure to set the repository to "Public" so that we can view it.
+Host your web app on a free hosting platform (Netlify and Render are great options) and submit the link to your app. 
+Include in your README file:
+The domain of your application.
+The React component hierarchy tree for each of the features.  
+Team member names.
+The feature each member was accountable for.
